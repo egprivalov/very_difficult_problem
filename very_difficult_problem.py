@@ -1,0 +1,1 @@
+print("Сумма чисел:", sum(list(map(int, input("Введите два числа: ").split()))))
